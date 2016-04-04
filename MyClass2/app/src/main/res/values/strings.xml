@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyClass2</string>
+    <string name="editTextName">이름 입력</string>
+    <string name="buttonCreate">사람 만들기</string>
+    <string name="buttonWalk">걸어가세요</string>
+    <string name="buttonRun">뛰어가세요</string>
+</resources>
